@@ -2,6 +2,7 @@ package com.blogs.blog;
 
 import com.blogs.entity.User;
 import com.blogs.mapper.UserMapper;
+import com.blogs.mapper.UserMapper;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;

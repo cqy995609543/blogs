@@ -1,5 +1,6 @@
 package com.blogs.entity;
 
+
 import lombok.Data;
 
 /**
